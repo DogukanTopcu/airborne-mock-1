@@ -1,0 +1,13 @@
+.flex-footer {
+    display: flex;
+    flex-direction: column;
+
+    text-align: right;
+    margin-right: 30px;
+
+    color: rgba(172, 129, 129, 0.616);
+
+    position: fixed;
+    bottom: 5vh;
+    right: 5vw;
+}
